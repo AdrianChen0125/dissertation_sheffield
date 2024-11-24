@@ -6,12 +6,17 @@
 
 ## Methods
 ![flowchart drawio](https://github.com/user-attachments/assets/e39a5ea1-d6d3-4892-b763-5d6756e0fc01)
-Over 30,000 comments were gathered using Mozdeh and the YouTube API. The NLTK toolbox in Python was used for text pre-pressing. We implemented the NMF model to conduct Topic modelling. Subsequently, we combined the topics with sentiment analysis by VADER. Lastly, we also performed dimensionality reduction using the t-SNE model to uncover correlations between themes and discuss them with previous literature.
+
+1. Over 30,000 comments were gathered using Mozdeh and the YouTube API. The NLTK toolbox in Python was used for text pre-pressing.
+2. We implemented the NMF model to conduct Topic modelling. Subsequently, we combined the topics with sentiment analysis by VADER.
+3. Lastly, we also performed dimensionality reduction using the t-SNE model to uncover correlations between themes and discuss them with previous literature.
+   
 ## Data Exploration Analysis
 
-### 1. Word cloud of Top 20 words in comments
+1. Word cloud of Top 20 words in comments
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
 
+3.
 
 ## Topic Modelling 
 
