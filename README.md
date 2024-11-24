@@ -38,10 +38,12 @@
 
 
 ![weight](https://github.com/user-attachments/assets/4b53a6a8-e72d-447c-8d45-478f289dd80d)
+
 2. According to the weights of words in each group and give a name. 
 
 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
+
 3. Topics and counts of comments. 
 
 
