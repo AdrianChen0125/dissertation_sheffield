@@ -23,4 +23,7 @@
 #### Topics and count of comments. 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
 
-### 
+### Topics and sentiments
+
+![NvsP2](https://github.com/user-attachments/assets/8a11ab05-0b64-44c8-a83f-e5f54359a646)
+
