@@ -18,4 +18,8 @@
 6. Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
 7. Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
 
+#### According to the weights of words in each group and give a name. 
+![weight](https://github.com/user-attachments/assets/4b53a6a8-e72d-447c-8d45-478f289dd80d)
+
+#### Topics and count of comments. 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
