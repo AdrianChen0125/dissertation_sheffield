@@ -4,8 +4,9 @@
 ## Data Exploration Analysis
 
 ### 1. Word cloud of Top 20 words in comments
+![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
 
-![image](https://github.com/user-attachments/assets/5e0df8c9-e933-4275-9381-6ee531b547dd)
+
 
 ### 2. Topic Modelling 
 ![image](https://github.com/user-attachments/assets/4d75c08d-afeb-41a4-ac0c-eff9e26683a9)
