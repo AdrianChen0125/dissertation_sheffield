@@ -1,6 +1,9 @@
 # Analysing Public Perception of Mr. Beast's Controversial Video on YouTube Through Text Mining
-![flowchart drawio](https://github.com/user-attachments/assets/e39a5ea1-d6d3-4892-b763-5d6756e0fc01)
+1. Social media enables direct connections among consumers, influencers, and companies. Influencers such as Mr Beast may have a significant impact by increasing awareness about social issues and charity. However, some have criticised their actions, accusing them of exploiting those in need or promoting prejudices.
 
+## Methods
+![flowchart drawio](https://github.com/user-attachments/assets/e39a5ea1-d6d3-4892-b763-5d6756e0fc01)
+Over 30,000 comments were gathered using Mozdeh and the YouTube API. The NLTK toolbox in Python was used for text pre-pressing. We implemented the NMF model to conduct Topic modelling. Subsequently, we combined the topics with sentiment analysis by VADER. Lastly, we also performed dimensionality reduction using the t-SNE model to uncover correlations between themes and discuss them with previous literature.
 ## Data Exploration Analysis
 
 ### 1. Word cloud of Top 20 words in comments
