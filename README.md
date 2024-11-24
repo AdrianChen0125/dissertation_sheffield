@@ -15,13 +15,13 @@
 
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
 1. Word cloud of Top 20 words in comments:
-This Figure uncovers the top 20 significant words. Mr Beast stands out as the most used word in the comments, suggesting that the YouTuber was the primary topic of discussion. Additionally, “People” and “Africa” are prominent. The word "Well" is most likely about the wells built in the video.
+. This Figure uncovers the top 20 significant words. Mr Beast stands out as the most used word in the comments, suggesting that the YouTuber was the primary topic of discussion. Additionally, “People” and “Africa” are prominent. The word "Well" is most likely about the wells built in the video.
 
 
 
 ![bi-gram](https://github.com/user-attachments/assets/fc749e6d-28c5-427a-80f9-04bee2a473cf)
 2. Word cloud of Top 15 words(bi-gram) in comments:
-In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
+. In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
 
 ## Topic Modelling 
 
