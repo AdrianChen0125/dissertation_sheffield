@@ -34,3 +34,5 @@
 
 ![NvsP2](https://github.com/user-attachments/assets/8a11ab05-0b64-44c8-a83f-e5f54359a646)
 
+## t-SNE(t-Distributed Stochastic Neighbor Embedding)
+![conclusion](https://github.com/user-attachments/assets/c5a0a6ec-80c3-4cbe-b5f6-1388541087b8)
