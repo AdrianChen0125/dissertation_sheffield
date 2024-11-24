@@ -34,28 +34,27 @@
 * Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
 * Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
 
-1. The above indicates the 7 clusters, and their keywords identified by the NMF model within the comments. These themes range from personal emotions and opinions to discussions about charity, race, and the socio-political context of Africa. To enhance the interpretability of each cluster, we assigned a label to each cluster based on the weight shown in Figure below.
+### The above indicates the 7 clusters, and their keywords identified by the NMF model within the comments. These themes range from personal emotions and opinions to discussions about charity, race, and the socio-political context of Africa. To enhance the interpretability of each cluster, we assigned a label to each cluster based on the weight shown in Figure below.
 
 
 ![weight](https://github.com/user-attachments/assets/4b53a6a8-e72d-447c-8d45-478f289dd80d)
 
-2. According to the weights of words in each group and give a name. 
+### According to the weights of words in each group and give a name. 
 
 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
-
-3. Topics and counts of comments. 
+### Topics and counts of comments. 
 
 
 ## Sentiment Analysis
 
 ![total_Sentiments](https://github.com/user-attachments/assets/8927036f-59ae-4ba3-bbf6-acd0a43b0d03)
-presents a sentiment analysis of the comments using VADER. The results show a predominance of positive and negative sentiments over neutral ones. Notably, the proportion of positive sentiments is only marginally higher than that of negative sentiments.
+### This figure presents a sentiment analysis of the comments using VADER. The results show a predominance of positive and negative sentiments over neutral ones. Notably, the proportion of positive sentiments is only marginally higher than that of negative sentiments.
 
 ![NvsP2](https://github.com/user-attachments/assets/8a11ab05-0b64-44c8-a83f-e5f54359a646)
-This Figure reveals only positive and negative sentiments across seven topics related to Mr Beast. Most topics have prominently positive comments. Nonetheless, “Racism and Saviour Complex” and “People's Needs and Negative Reactions” have more negative sentiments in comments. Lastly, the topic of “Sociopolitical Issues and Aid in Africa” shows a more balanced distribution of sentiments.
+### This figure reveals only positive and negative sentiments across seven topics related to Mr Beast. Most topics have prominently positive comments. Nonetheless, “Racism and Saviour Complex” and “People's Needs and Negative Reactions” have more negative sentiments in comments. Lastly, the topic of “Sociopolitical Issues and Aid in Africa” shows a more balanced distribution of sentiments.
 
 ## t-SNE(t-Distributed Stochastic Neighbor Embedding)
 ![conclusion](https://github.com/user-attachments/assets/c5a0a6ec-80c3-4cbe-b5f6-1388541087b8)
 
-This Figure demonstrates the correlation among topics calculated by the t-SNE model. Each dot represents a comment in videos, and the colours correspond to different topics discovered by the NMF algorithm. The t-SNE model was used to arrange these dots in a two-dimensional space so that similar topics are closer together and dissimilar topics are further apart. Figure 16 indicates that some topics cluster more closely, suggesting they might be related or share common themes. For example, Topic 5 appears close to Topics 0, 1, 2 and 6; it is revealed that these topics correlate to Mr Beast’s behaviours. Meanwhile, the closeness of Topics 3, 4, and 6 highlights their association with socio-political discourse concerning Africa.
+###　This Figure demonstrates the correlation among topics calculated by the t-SNE model. Each dot represents a comment in videos, and the colours correspond to different topics discovered by the NMF algorithm. The t-SNE model was used to arrange these dots in a two-dimensional space so that similar topics are closer together and dissimilar topics are further apart. Figure 16 indicates that some topics cluster more closely, suggesting they might be related or share common themes. For example, Topic 5 appears close to Topics 0, 1, 2 and 6; it is revealed that these topics correlate to Mr Beast’s behaviours. Meanwhile, the closeness of Topics 3, 4, and 6 highlights their association with socio-political discourse concerning Africa.
