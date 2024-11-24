@@ -19,8 +19,7 @@
 
 
 ![bi-gram](https://github.com/user-attachments/assets/fc749e6d-28c5-427a-80f9-04bee2a473cf)
-
-###　In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
+### In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
 
 ## Topic Modelling 
 
