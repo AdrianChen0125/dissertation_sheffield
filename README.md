@@ -1,5 +1,8 @@
 # Analysing Public Perception of Mr. Beast's Controversial Video on YouTube Through Text Mining
+
+## Abstract
 1. Social media enables direct connections among consumers, influencers, and companies. Influencers such as Mr Beast may have a significant impact by increasing awareness about social issues and charity. However, some have criticised their actions, accusing them of exploiting those in need or promoting prejudices.
+2. The research found a positive public attitude toward Mr Beast's charity initiatives in Africa. However, we also found more negative sentiment in topics discussing saviours and complaints about Mr Beast's behaviour in assisting people. From the correlation among topics, there are two leading groups in discussion. One is Mr. Beast's behaviour in charity. The other is ethical concerns and social-political issues in Africa. Compared with previous campaigns, which also utilised portrayal of poverty for fundraising, such as Kony 2012 and Benefit Street, despite the success of these attempts to increase awareness. The study emphasises the need to provide accurate representations and find long-term solutions.
 
 ## Methods
 ![flowchart drawio](https://github.com/user-attachments/assets/e39a5ea1-d6d3-4892-b763-5d6756e0fc01)
