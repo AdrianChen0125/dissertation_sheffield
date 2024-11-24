@@ -50,12 +50,10 @@
 ## Sentiment Analysis
 
 ![total_Sentiments](https://github.com/user-attachments/assets/8927036f-59ae-4ba3-bbf6-acd0a43b0d03)
-1. Sentiment of total comments
-* presents a sentiment analysis of the comments using VADER. The results show a predominance of positive and negative sentiments over neutral ones. Notably, the proportion of positive sentiments is only marginally higher than that of negative sentiments.
+presents a sentiment analysis of the comments using VADER. The results show a predominance of positive and negative sentiments over neutral ones. Notably, the proportion of positive sentiments is only marginally higher than that of negative sentiments.
 
 ![NvsP2](https://github.com/user-attachments/assets/8a11ab05-0b64-44c8-a83f-e5f54359a646)
-2. Topics and sentiments
-* This Figure reveals only positive and negative sentiments across seven topics related to Mr Beast. Most topics have prominently positive comments. Nonetheless, “Racism and Saviour Complex” and “People's Needs and Negative Reactions” have more negative sentiments in comments. Lastly, the topic of “Sociopolitical Issues and Aid in Africa” shows a more balanced distribution of sentiments.
+This Figure reveals only positive and negative sentiments across seven topics related to Mr Beast. Most topics have prominently positive comments. Nonetheless, “Racism and Saviour Complex” and “People's Needs and Negative Reactions” have more negative sentiments in comments. Lastly, the topic of “Sociopolitical Issues and Aid in Africa” shows a more balanced distribution of sentiments.
 
 ## t-SNE(t-Distributed Stochastic Neighbor Embedding)
 ![conclusion](https://github.com/user-attachments/assets/c5a0a6ec-80c3-4cbe-b5f6-1388541087b8)
