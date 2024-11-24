@@ -36,6 +36,7 @@
 
 1. The above indicates the 7 clusters, and their keywords identified by the NMF model within the comments. These themes range from personal emotions and opinions to discussions about charity, race, and the socio-political context of Africa. To enhance the interpretability of each cluster, we assigned a label to each cluster based on the weight shown in Figure below.
 
+
 ![weight](https://github.com/user-attachments/assets/4b53a6a8-e72d-447c-8d45-478f289dd80d)
 2. According to the weights of words in each group and give a name. 
 
