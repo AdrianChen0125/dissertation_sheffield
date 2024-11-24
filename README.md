@@ -14,15 +14,13 @@
 ## Data Exploration Analysis
 
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
-1. Top 20 words in comments:
-* This Figure uncovers the top 20 significant words. Mr Beast stands out as the most used word in the comments, suggesting that the YouTuber was the primary topic of discussion. Additionally, “People” and “Africa” are prominent. The word "Well" is most likely about the wells built in the video.
+### This Figure uncovers the top 20 significant words. Mr Beast stands out as the most used word in the comments, suggesting that the YouTuber was the primary topic of discussion. Additionally, “People” and “Africa” are prominent. The word "Well" is most likely about the wells built in the video.
 
 
 
 ![bi-gram](https://github.com/user-attachments/assets/fc749e6d-28c5-427a-80f9-04bee2a473cf)
 
-2. Top 15 words(bi-gram) in comments:
-* In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
+###　In this Figure, the most common bigram is “mr beast” followed by “help people” and “clean water”. Additionally, terms like “white savior” and “black people”, which appear less frequently, likely relate to the controversy surrounding Mr Beast.
 
 ## Topic Modelling 
 
@@ -57,4 +55,4 @@
 ## t-SNE(t-Distributed Stochastic Neighbor Embedding)
 ![conclusion](https://github.com/user-attachments/assets/c5a0a6ec-80c3-4cbe-b5f6-1388541087b8)
 
-###　This Figure demonstrates the correlation among topics calculated by the t-SNE model. Each dot represents a comment in videos, and the colours correspond to different topics discovered by the NMF algorithm. The t-SNE model was used to arrange these dots in a two-dimensional space so that similar topics are closer together and dissimilar topics are further apart. Figure 16 indicates that some topics cluster more closely, suggesting they might be related or share common themes. For example, Topic 5 appears close to Topics 0, 1, 2 and 6; it is revealed that these topics correlate to Mr Beast’s behaviours. Meanwhile, the closeness of Topics 3, 4, and 6 highlights their association with socio-political discourse concerning Africa.
+### This Figure demonstrates the correlation among topics calculated by the t-SNE model. Each dot represents a comment in videos, and the colours correspond to different topics discovered by the NMF algorithm. The t-SNE model was used to arrange these dots in a two-dimensional space so that similar topics are closer together and dissimilar topics are further apart. Figure 16 indicates that some topics cluster more closely, suggesting they might be related or share common themes. For example, Topic 5 appears close to Topics 0, 1, 2 and 6; it is revealed that these topics correlate to Mr Beast’s behaviours. Meanwhile, the closeness of Topics 3, 4, and 6 highlights their association with socio-political discourse concerning Africa.
