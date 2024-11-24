@@ -16,22 +16,24 @@
 1. Word cloud of Top 20 words in comments
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
 
-3.
+2. Word cloud of Top 15 words(bi-gram) in comments
+![bi-gram](https://github.com/user-attachments/assets/fc749e6d-28c5-427a-80f9-04bee2a473cf)
+
 
 ## Topic Modelling 
 
-1. Topic 0: people, help, helping, mad, need, dont, hate, want, complaining, like, helped
-2. Topic 1: beast, mr, love, thank, god, ha, bless, like, hate, hater, cancel
-3. Topic 2: good, thing, deed, unpunished, bad, world, doe, hate, person, man, work
-4. Topic 3: water, clean, drinking, access, drink, care, dont, need, kid, wa, giving
-5. Topic 4: white, black, racist, man, savior, guy, wa, person, racism, complex, calling
-6. Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
-7. Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
+* Topic 0: people, help, helping, mad, need, dont, hate, want, complaining, like, helped
+* Topic 1: beast, mr, love, thank, god, ha, bless, like, hate, hater, cancel
+* Topic 2: good, thing, deed, unpunished, bad, world, doe, hate, person, man, work
+* Topic 3: water, clean, drinking, access, drink, care, dont, need, kid, wa, giving
+* Topic 4: white, black, racist, man, savior, guy, wa, person, racism, complex, calling
+* Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
+* Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
 
-### According to the weights of words in each group and give a name. 
+1. According to the weights of words in each group and give a name. 
 ![weight](https://github.com/user-attachments/assets/4b53a6a8-e72d-447c-8d45-478f289dd80d)
 
-### Topics and counts of comments. 
+2. Topics and counts of comments. 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
 
 
