@@ -13,10 +13,12 @@
    
 ## Data Exploration Analysis
 
-1. Word cloud of Top 20 words in comments
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
+1. Word cloud of Top 20 words in comments:
+   .123 
 
-2. Word cloud of Top 15 words(bi-gram) in comments
+
+3. Word cloud of Top 15 words(bi-gram) in comments
 ![bi-gram](https://github.com/user-attachments/assets/fc749e6d-28c5-427a-80f9-04bee2a473cf)
 
 
