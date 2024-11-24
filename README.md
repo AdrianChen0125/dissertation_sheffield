@@ -8,14 +8,14 @@
 
 
 
-### 2. Topic Modelling 
+### Topic Modelling 
 
-Topic 0: people, help, helping, mad, need, dont, hate, want, complaining, like, helped
-Topic 1: beast, mr, love, thank, god, ha, bless, like, hate, hater, cancel
-Topic 2: good, thing, deed, unpunished, bad, world, doe, hate, person, man, work
-Topic 3: water, clean, drinking, access, drink, care, dont, need, kid, wa, giving
-Topic 4: white, black, racist, man, savior, guy, wa, person, racism, complex, calling
-Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
-Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
+1. Topic 0: people, help, helping, mad, need, dont, hate, want, complaining, like, helped
+2. Topic 1: beast, mr, love, thank, god, ha, bless, like, hate, hater, cancel
+3. Topic 2: good, thing, deed, unpunished, bad, world, doe, hate, person, man, work
+4. Topic 3: water, clean, drinking, access, drink, care, dont, need, kid, wa, giving
+5. Topic 4: white, black, racist, man, savior, guy, wa, person, racism, complex, calling
+6. Topic 5: money, video, make, like, wa, charity, doe, making, mrbeast, ha, view
+7. Topic 6: africa, african, country, government, ha, dont, poor, need, help, problem, corrupt
 
 ![output](https://github.com/user-attachments/assets/6bf36db4-b50b-4d27-ab9d-e406f0e1633c)
