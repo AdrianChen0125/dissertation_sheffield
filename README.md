@@ -15,7 +15,7 @@
 
 ![TOP_20words](https://github.com/user-attachments/assets/8b909931-a692-4a0d-8fcf-f26d05ad9e10)
 1. Word cloud of Top 20 words in comments:
-   .123 
+   * 123 
 
 
 3. Word cloud of Top 15 words(bi-gram) in comments
